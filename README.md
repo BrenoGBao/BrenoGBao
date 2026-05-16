@@ -55,4 +55,3 @@ I'm a Software Engineering student at FIAP (São Paulo, Brazil), passionate abou
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brenogbao)
 [![Gmail](https://img.shields.io/badge/Gmail-111?style=for-the-badge&logo=gmail)](mailto:brenosgbao@gmail.com)
-```
