@@ -1,4 +1,4 @@
-# Hi, I'm Breno 👋
+# Hello! I'm Breno 👋
 
 ## About Me
 
@@ -44,10 +44,10 @@ I'm a Software Engineering student at FIAP (São Paulo, Brazil), passionate abou
 
 ## Languages
 
-- 🇧🇷 Portuguese — Native
-- 🇺🇸 English — Advanced
-- 🇪🇸 Spanish — Basic/Intermediate
-- 🇮🇹 Italian — Basic
+- Portuguese — Native
+- English — Advanced
+- Spanish — Basic/Intermediate
+- Italian — Basic
 
 ---
 
@@ -61,6 +61,6 @@ I'm a Software Engineering student at FIAP (São Paulo, Brazil), passionate abou
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/brenogbao)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brenogbao)
 [![Gmail](https://img.shields.io/badge/Gmail-111?style=for-the-badge&logo=gmail)](mailto:brenosgbao@gmail.com)
 ```
