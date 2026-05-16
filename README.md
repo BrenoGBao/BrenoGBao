@@ -51,14 +51,6 @@ I'm a Software Engineering student at FIAP (São Paulo, Brazil), passionate abou
 
 ---
 
-## GitHub Stats
-
-![Breno's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoGBao&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoGBao&layout=compact&theme=tokyonight)
-
----
-
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brenogbao)
